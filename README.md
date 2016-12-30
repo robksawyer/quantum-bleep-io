@@ -18,6 +18,7 @@ Blah Blah. Added description or story line here.
 
 - [Ionic 2 Docs](https://ionicframework.com/docs/v2/)
 - [Angular 2 Docs](http://learnangular2.com/)
+- [Typescript Docs](http://www.typescriptlang.org/docs/index.html)
 
 #Other Resources
 
