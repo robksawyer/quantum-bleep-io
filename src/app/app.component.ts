@@ -4,6 +4,8 @@ import { StatusBar, Splashscreen } from 'ionic-native';
 
 import { HomePage } from '../pages/home/home';
 
+// Use Greensock animation libraries
+import 'gsap';
 
 @Component({
   templateUrl: 'app.html'
@@ -21,6 +23,7 @@ export class MyApp {
       // https://ionicframework.com/docs/v2/api/platform/Platform/
       if(platform.isPortrait()){
         //Present an alert or some dialog to let the user know to rotate.
+        
       }
 
       // Okay, so the platform is ready and our plugins are available.

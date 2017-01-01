@@ -14,3 +14,39 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+
+ion-content {
+	background-image: url('../assets/backgrounds/landing_no.jpg');
+	-webkit-background-image: url('../assets/backgrounds/landing_no.jpg');
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-size:cover;
+	-webkit-background-size: cover;
+}
+.btn {
+	position: relative;
+	display: block;
+}
+
+.option-btn-container{
+	position: relative;
+	margin-top: 25%;
+}
+.option-btn {
+	display: inline-block;
+	padding: 0; margin: 0;
+}
+
+.option-btn:last-child{
+	margin: 0 0 0 5px;
+}
+
+.option-btn img{
+	width: 300px;
+	padding: 0; margin: 0;
+}
+
+.object {
+	display: inline-block;
+}

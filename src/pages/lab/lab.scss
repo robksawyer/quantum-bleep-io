@@ -1,0 +1,19 @@
+page-lab {
+	ion-content {
+		background-image: url('../assets/backgrounds/scene-1.jpg');
+		-webkit-background-image: url('../assets/backgrounds/scene-1.jpg');
+		background-repeat: no-repeat;
+		-webkit-background-repeat: no-repeat;
+		background-size:cover;
+		-webkit-background-size: cover;
+	}
+
+	.start {
+		margin-top: 30%;
+		margin-left: 40%;
+	}
+
+	.start img {
+		width: 300px;
+	}
+}
